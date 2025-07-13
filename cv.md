@@ -26,6 +26,22 @@ A frontend developer with several years of experience. I'm currently working as 
 - Nginx
 - Git
 
+### Code
+
+```
+function squareOrSquareRoot(array) {
+  for (let i = 0; i < array.length; i++) {
+    if (Number.isInteger(Math.sqrt(array[i]))) {
+      array[i] = Math.sqrt(array[i]);
+      }
+    else {
+      array[i] = array[i]*array[i];
+      }
+    }
+  return array
+}
+```
+
 ### Experience
 
 - 2020-2021 Frontend Developer "X-tech"
@@ -39,3 +55,7 @@ A frontend developer with several years of experience. I'm currently working as 
 
 - Russian - native
 - English - B2
+
+```
+
+```
