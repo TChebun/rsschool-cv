@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://TChebun.github.io/rsschool-cv/cv
+[Резюме](https://TChebun.github.io/rsschool-cv/cv)
